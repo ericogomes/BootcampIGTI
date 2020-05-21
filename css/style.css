@@ -1,0 +1,15 @@
+#divColor {
+  background-color: black;
+  border: 1px solid #9e9e9e;
+  height: 200px;
+  width: 200px;
+  border: 1px solid #9e9e9e;
+}
+
+.containerDiv {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 17px;
+}
